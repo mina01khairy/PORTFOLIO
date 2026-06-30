@@ -354,7 +354,7 @@ export default function Home() {
             className='max-md:grid max-md:grid-cols-1 flex w-full justify-between border-t border-t-gray-700 group cursor-pointer'
             onClick={() => window.open(project.live, "_blank")}
           >
-            <div className='max-md:group-hover:translate-x-0 w-[40%] max-md:gap-5 max-md:col-span-2 max-md:justify-center flex gap-20 items-center py-10 duration-300 group-hover:translate-x-10'>
+            <div className='max-md:group-hover:translate-x-0 md:w-[40%] max-md:gap-5 max-md:col-span-2 max-md:justify-center flex gap-20 items-center py-10 duration-300 group-hover:translate-x-10'>
               <div className='text-xs text-gray-500'>{project.year}</div>
               <div>
                 <div className='group-hover:text-[#E8630A] text-2xl font-bold tracking-tight' style={{ fontFamily: '"Playfair Display", serif' }}>
