@@ -6,10 +6,11 @@ import "./globals.css";
 export const metadata = {
   title: "PORTFOLIO",
   icons: {
-    icon: "/Mina.png",
+    icon: [
+      { url: "/img/mina.ico" }
+    ],
   },
 };
-
 
 export default function RootLayout(props) {
   return (
