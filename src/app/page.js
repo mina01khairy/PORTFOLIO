@@ -8,11 +8,11 @@ export default function Home() {
   const projects = [
     {
       year: "2026",
-      title: "Mina Store",
-      description: "A responsive e-commerce application built with React, React Router, Context API, and Tailwind CSS —featuring product filtering, cart management, and API integration.",
-      live: "https://mina-store-weld.vercel.app",
-      github: "https://github.com/mina01khairy/Mina_Store.git",
-      tags: ["React", "JavaScript", "API", "Context"],
+      title: "Kinetic Elite GYM",
+      description: "A modern, fully responsive fitness and gym website built with Next.js — featuring trainer showcases, class schedules, membership plans, and a seamless user experience for fitness businesses.",
+      live: "https://gym-rho-neon.vercel.app/",
+      github: "https://github.com/mina01khairy/GYM.git",
+      tags: ["Next.js", "TypeScript", "context", "Tailwind"],
     },
     {
       year: "2026",
@@ -21,6 +21,14 @@ export default function Home() {
       live: "https://beta-blond-five.vercel.app/",
       github: "https://github.com/mina01khairy/Beta-.git",
       tags: ["Next.js", "JavaScript", "Tailwind", "Math.js"],
+    },
+    {
+      year: "2026",
+      title: "Mina Store",
+      description: "A responsive e-commerce application built with React, React Router, Context API, and Tailwind CSS —featuring product filtering, cart management, and API integration.",
+      live: "https://mina-store-weld.vercel.app",
+      github: "https://github.com/mina01khairy/Mina_Store.git",
+      tags: ["React", "JavaScript", "API", "Context"],
     },
     {
       year: "2026",
