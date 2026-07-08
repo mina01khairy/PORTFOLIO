@@ -8,6 +8,14 @@ export default function Home() {
   const projects = [
     {
       year: "2026",
+      title: "SupportFlow AI",
+      description: "A modern, responsive SaaS customer support platform built with Next.js — featuring authentication, dashboards, ticket management, and a scalable, user-friendly interface.",
+      live: "https://saas-1-dun.vercel.app/",
+      github: "https://github.com/mina01khairy/SAAS1.git",
+      tags: ["Next.js", "TypeScript", "context","Redux", "Tailwind"],
+    },
+    {
+      year: "2026",
       title: "Kinetic Elite GYM",
       description: "A modern, fully responsive fitness and gym website built with Next.js — featuring trainer showcases, class schedules, membership plans, and a seamless user experience for fitness businesses.",
       live: "https://gym-rho-neon.vercel.app/",
